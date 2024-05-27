@@ -2607,7 +2607,7 @@ body,
 }
 
 .team-area .social li.twitter a {
-  background-color: #00b6f1;
+  background-color: #000000;
 }
 
 .team-area .social li.pinterest a {
@@ -2615,7 +2615,7 @@ body,
 }
 
 .team-area .social li.facebook a {
-  background-color: #3b5998;
+  background-color: #E94134;
 }
 
 .team-area .social li.google-plus a {
@@ -3358,7 +3358,7 @@ blockquote {
 }
 
 .contact-us-area .address .social li.twitter a {
-  background-color: #00b6f1;
+  background-color: #000000;
 }
 
 .contact-us-area .address .social li.pinterest a {
@@ -3366,7 +3366,7 @@ blockquote {
 }
 
 .contact-us-area .address .social li.facebook a {
-  background-color: #3b5998;
+  background-color: #E94134;
 }
 
 .contact-us-area .address .social li.g-plus a {
@@ -3821,11 +3821,11 @@ blockquote {
 }
 
 .login-area .social-login li.facebook a {
-  background: #3B5998 none repeat scroll 0 0;
+  background: #E94134 none repeat scroll 0 0;
 }
 
 .login-area .social-login li.twitter a {
-  background: #1DA1F2 none repeat scroll 0 0;
+  background: #000000 none repeat scroll 0 0;
 }
 
 /* ============================================================== 
